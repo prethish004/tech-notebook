@@ -14,6 +14,11 @@ PLANNER–EXECUTOR AGENT
 Why:
 - Planning improves task success
 - Separation of thinking and doing
+
+✅ When to use
+✔ Large tasks
+✔ Automation
+✔ Reliability needed
 """
 
 def planner(goal):

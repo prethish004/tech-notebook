@@ -53,4 +53,3 @@ Inside `web-test-automation/README.md`, add a section:
 - It’s normal to know both: Playwright for speed & DX, Selenium for compatibility.
 ```
 
-Do you want me to generate a small code pair in the same README that shows the **same login test once in Playwright and once in Selenium**, so you can compare style side‑by‑side?
